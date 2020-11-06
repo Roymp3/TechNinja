@@ -1,0 +1,140 @@
+body{
+
+    margin: 0;
+}
+#div1{
+    display: flex;
+    background-color: orange;
+    line-height: 2px;
+    color: orange; 
+    font-size: large;
+     margin-left: -8.5cm;
+     box-shadow: 0 0 0.8125rem 0 rgba(0,0,0,.75);
+     animation: 1s ease-out 0s 1 slow-shadow;
+
+ }
+button{
+    
+    background-color: orange;
+    border: none;
+    font-size: medium;
+    font-family: Verdana;
+}
+button:hover{
+background-color: rgb(255, 185, 56);
+}
+img{
+    margin-left: 24cm;    
+    width: 80px ;
+    height: 80px;
+    position:relative;
+    margin-top: 5px;
+}
+#espelhado{
+    width: 80px ;
+    height: 80px;
+    position:relative;
+    margin-left: -0.1cm;
+    margin-bottom: 2px;
+}
+
+#container{  
+  margin-left: 1cm;
+
+display: flex;
+
+}
+#promocao{
+    margin-top: 1cm;
+    background-color: green;
+    margin-left: 12cm;
+    margin-right: -17cm;
+    width: 550px;
+    border-radius: 10px;
+    line-height: 10cm;
+}
+#promo{
+    margin-top: 2cm;
+    background-color: red;
+    margin-left: 18cm;
+    margin-right: 2cm;
+    width: 250px;
+    border-radius: 10px;
+    line-height:12cm;
+}
+#div4{
+
+    position: absolute;
+    margin-top: 14.5cm;
+    background-color: rgb(255, 255, 255);
+    margin-left: 11.5cm;
+    width: 860px;
+    border-radius: 10px;
+}
+#rodape{
+    
+    background-color: rgb(189, 189, 189);
+    bottom: 0;
+    width: 100%;
+    margin-top: 7cm;
+    line-height: 6cm;
+    
+    
+  
+}
+#fotopro{
+    
+
+    border-radius: 10px;
+    height: 99%;
+    width: 6.7cm;
+    margin-left: 15.5cm;
+}
+#carrinho{
+    order: 1;
+    padding: 2px;
+    margin-left: 0cm;
+  margin-top: 39px;
+    width: 40px;
+    height: 40px;
+
+}
+#login{
+    padding-left: 50px;
+    margin-top: 39px;
+    width: 30px;
+    height: 30px;
+    margin-left: -1.5cm;
+    
+}
+#user{
+
+    order: 2;
+    width: 80px;
+    height: 80px;
+    margin-left: 3cm;
+    margin-top: -3px;
+
+}
+#carbtn{
+
+    order: 1;
+    width: 60px;
+    margin-left: 0cm;
+}
+#fotopro2{
+ width: 15cm ;
+ height: 110%;
+ border-radius: 10px;
+  margin-left: -16cm;
+  margin-top: -1cm ;
+}
+#fotopro3{
+
+    margin-left: 0cm;
+    border-radius: 10px;
+    width: 101%;
+    height: 5cm;
+
+
+}
