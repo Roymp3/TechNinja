@@ -39,6 +39,8 @@ img{
 }
 #container{  
 display: flex;
+margin-left: 2cm;
+margin-top: -1cm;
 
 }
 #promocao{
@@ -59,22 +61,12 @@ display: flex;
     border-radius: 10px;
     line-height:18cm;
 }
-#div4{
-
-    position: absolute;
-    margin-top: 14.5cm;
-    background-color: rgb(255, 255, 255);
-    margin-left: 11.5cm;
-    width: 860px;
-    border-radius: 10px;
-}
-
 #fotopro{
     order: 1;
     border-radius: 10px;
     height: 15cm;
     width: 9cm;
-    margin-left: -9cm;
+    margin-left: -9.2cm;
     margin-top: 2cm;
 }
 #carrinho{
@@ -121,7 +113,7 @@ display: flex;
     margin-left: -15cm;
     border-radius: 10px;
     width: 50%;
-    height: 4cm;
+    height: 4.5cm;
 
 
 }
