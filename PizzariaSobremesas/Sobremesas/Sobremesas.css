@@ -1,0 +1,70 @@
+header{
+    text-align: center;
+    
+    margin: -10px;
+    background-color: darkorange;
+    
+}
+body{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: darkred;
+}
+p1{
+    color: darkorange;
+ }
+p2{
+    color: darkorange;
+    text-align: right;
+    margin: 0px;
+}
+p3{
+    color: darkorange;
+    height: 100px; width: 100px;
+}
+p4{
+    color: darkorange;
+}
+p5{
+    color: darkorange;
+}
+p6{
+    color: darkorange;
+    text-align: end;
+}
+footer{
+    color: darkorange;
+    text-align: end;
+    text-align: center;
+    margin: 300px;
+    flex: 50px;
+}
+img{
+    width: 200px; height: 250px;
+}
+#ligeirinho{
+    width: 100px; 
+    height: 100px;
+}
+#Açai{
+
+}
+#Sorvete{
+
+}
+#BolodePote{
+grid-row
+}
+
+    
+
+    
+
+
+
+    
+
+
