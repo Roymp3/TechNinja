@@ -1,0 +1,112 @@
+body{
+
+    margin: 0;
+}
+#div1{
+    display: flex;
+    background-color: orange;
+    line-height: 2px;
+    color: orange; 
+    font-size: large;
+     margin-left: -8.5cm;
+     box-shadow: 0 0 0.8125rem 0 rgba(0,0,0,.75);
+     animation: 1s ease-out 0s 1 slow-shadow;
+
+ }
+button{
+    
+    background-color: orange;
+    border: none;
+    font-size: medium;
+    font-family: Verdana;
+}
+button:hover{
+background-color: rgb(255, 185, 56);
+}
+img{
+    margin-left: 26cm;    
+    width: 80px ;
+    height: 80px;
+    position:relative;
+    margin-top: 5px;
+}
+#espelhado{
+    width: 80px ;
+    height: 80px;
+    position:relative;
+    margin-left: -0.1cm;
+    margin-bottom: 2px;
+}
+#container{  
+display: flex;
+margin-top: -1cm;
+margin-left: 2cm;
+}
+
+#fotopro{
+    order: 2;
+    border-radius: 10px;
+    height: 14cm;
+    width: 8cm;
+    margin-left: -8cm;
+    margin-top: 2cm;
+}
+#carrinho{
+    order: 1;
+    padding: 2px;
+    margin-left: 0cm;
+  margin-top: 39px;
+    width: 40px;
+    height: 40px;
+
+}
+#login{
+    padding-left: 50px;
+    margin-top: 39px;
+    width: 30px;
+    height: 30px;
+    margin-left: -1.5cm;
+    
+}
+#user{
+
+    order: 2;
+    width: 80px;
+    height: 80px;
+    margin-left: 3cm;
+    margin-top: -3px;
+
+}
+#carbtn{
+
+    order: 1;
+    width: 60px;
+    margin-left: 0cm;
+}
+#fotopro2{
+ padding-right: 5px;
+ width: 14cm ;
+ height: 14cm;
+ border-radius: 10px;
+  margin-left: 11cm;
+  margin-top: 2.1cm ;
+}
+#fotopro3{
+    margin-top: 17cm;
+    margin-left: -15cm;
+    border-radius: 10px;
+    width: 50%;
+    height: 4cm;
+
+
+}
+#rodape{
+    margin-bottom: -4.5cm;
+    line-height: 6cm;
+    width: 100%;
+    background-color: rgb(185, 185, 185);
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
