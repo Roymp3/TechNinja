@@ -39,34 +39,16 @@ img{
 }
 #container{  
 display: flex;
-margin-left: 2cm;
 margin-top: -1cm;
+margin-left: 2cm;
+}
 
-}
-#promocao{
-    margin-top: 1cm;
-    background-color: green;
-    margin-left: 12cm;
-    margin-right: -17cm;
-    width: 550px;
-    border-radius: 10px;
-    line-height: 10cm;
-}
-#promo{
-    margin-top: 2cm;
-    background-color: red;
-    margin-left: 18cm;
-    margin-right: 2cm;
-    width: 250px;
-    border-radius: 10px;
-    line-height:18cm;
-}
 #fotopro{
-    order: 1;
+    order: 2;
     border-radius: 10px;
-    height: 15cm;
-    width: 9cm;
-    margin-left: -9.2cm;
+    height: 14cm;
+    width: 8cm;
+    margin-left: -8cm;
     margin-top: 2cm;
 }
 #carrinho{
@@ -102,18 +84,27 @@ margin-top: -1cm;
     margin-left: 0cm;
 }
 #fotopro2{
- width: 15cm ;
- height: 15cm;
+ padding-right: 5px;
+ width: 14cm ;
+ height: 14cm;
  border-radius: 10px;
-  margin-left: 10cm;
-  margin-top: 2cm ;
+  margin-left: 11cm;
+  margin-top: 2.1cm ;
 }
 #fotopro3{
-    margin-top: 17.5cm;
+    margin-top: 17cm;
     margin-left: -15cm;
     border-radius: 10px;
     width: 50%;
-    height: 4.5cm;
+    height: 4cm;
 
 
+}
+#rodape{
+    margin-bottom: -4.5cm;
+    line-height: 6cm;
+    width: 100%;
+    background-color: rgb(185, 185, 185);
+    position: absolute;
+    bottom: 0;
 }
