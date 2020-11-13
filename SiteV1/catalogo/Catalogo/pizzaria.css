@@ -1,0 +1,81 @@
+#ancora {
+    text-decoration: none;
+    color: black;
+
+}
+#logo {
+width: 80px;
+}
+.pizza_nome{
+
+   margin-top: 50px;
+  
+}
+div{
+    border: none;
+}
+#ancora{
+    text-decoration:none;
+    color:black;
+}
+#coluna1{
+    text-align: center;
+}
+#button{
+    text-align: center;
+    
+}
+
+#imgpizzas{
+    width: 380px;
+    height: 380px;
+    display: flex;
+    text-align: center;
+    
+
+
+}
+#nav{
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+    line-height: 10px;
+    color: orange; 
+    font-size: large;
+    margin: 0%;
+    box-shadow: 0 0 0.8125rem 0 rgba(0,0,0,.75);
+    animation: 1s ease-out 0s 1 slow-shadow;
+ }
+#carrinhoUser{
+    order: 4;
+    display: flex;
+}
+#buttonnav{
+    
+    background-color: orange;
+    border: none;
+    font-size: medium;
+    font-family: Verdana;
+    margin: 10px;
+}
+img{
+    width:80px;
+    height: 80px;
+}
+#login ,#carrinho{
+    width: 25px;
+    height: 25px;
+    align-self: flex-end;
+}
+#buttonnav:hover{
+background-color: rgb(255, 185, 56);
+}
+#rodape{
+    margin-bottom: -10cm;
+    line-height: 80px;
+    width: 100%;
+    background-color: rgb(185, 185, 185);
+    position: absolute;
+    bottom: 0;
+    text-align: center
+}
