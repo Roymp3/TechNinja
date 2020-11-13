@@ -1,0 +1,145 @@
+#secao{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+}
+#ancora{
+    text-decoration:none;
+    color:black;
+}
+#nav1{
+    display:flex;
+    justify-content:center;
+    background-color:orange;
+    line-height:10px;
+    color:orange; 
+    font-size:large;
+    margin:0%;
+    box-shadow:000.8125rem 0 rgba(0,0,0,.75);
+    animation: 1s ease-out 0s 1 slow-shadow;
+}
+#carrinhoUser{
+    order:4;
+    display:flex;
+}
+#buttonnav{
+    background-color:orange;
+    border:none;
+    font-size:medium;
+    font-family:Verdana;
+    margin:10px;
+}
+#login,#carrinho{
+    width:25px;
+    height:25px;
+    align-self:flex-end;
+}
+#buttonnav:hover{
+    
+    background-color:rgb(255, 185, 56);
+    
+}
+img{
+        width:80px ;
+        height:80px;
+        position:relative;
+        background-color:orange;
+        margin-top: 12px;
+}
+#espelhado{
+    width:80px ;
+    height:80px;
+    position:relative;
+    margin-left:-0.1cm;
+    margin-bottom:2px;
+}
+header{
+    text-align: center;
+    margin: -10px;
+    background-color: darkorange;
+    line-height: 5px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: darkred;
+}
+button{
+    border-radius: 10px;
+    background-color: darkorange;
+    border: none;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+button:hover{
+    background-color: rgb(236, 180, 112);
+
+} 
+p1{
+    color: rgb(0, 0, 0);
+ }
+p2{
+    color: rgb(0, 0, 0);
+    text-align: right;
+    margin: 0px;
+}
+p3{
+    color: rgb(0, 0, 0);
+    height: 100px; width: 100px;
+}
+p4{
+    color: rgb(0, 0, 0);
+}
+p5{
+    color: rgb(0, 0, 0);
+}
+p6{
+    color: rgb(0, 0, 0);
+    text-align: end;
+}
+#Açai, #Sorvete, #BolodePote, #Quindim, #Brigadeiro, #PizzadeChocolate{
+    width: 200px; height: 250px;
+    margin-top: 25px;
+    margin-left: 5px;
+     border-radius: 10px;
+}
+#rodape{
+    margin-bottom: -4.5cm;
+    line-height: 30px;
+    width: 100%;
+    background-color: rgb(185, 185, 185);
+    position: absolute;
+    bottom: 0;
+    text-align: center
+}
+#coluna1{
+    margin: 20px;
+    margin-right: 20px;
+    margin-top:20px;
+   text-align: center;
+   justify-content: space-between   
+}
+#coluna2{
+    text-align: center;
+    margin-top: 10px;
+    margin: 20px;
+
+}
+#coluna3{
+    text-align: center;
+    margin-top: 10px;
+    margin: 20px;
+}
+
+
+
+
+
+
+   
