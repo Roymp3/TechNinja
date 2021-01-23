@@ -1,0 +1,57 @@
+.titulo_catalogo{
+  font-size: 1em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: orangered;
+  margin-top: 38px;
+  margin-right: 241px;
+  padding-bottom: 0.10em;
+  margin-left: 300px;
+}
+
+.titulo_direita{
+  display: inline-block;
+  line-height: 4.1em;
+  float: right;
+  margin-right: 1em;
+  text-transform: uppercase;
+}
+
+.titulo_esquerda{
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+section#catalogo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 810px;
+  margin-left: 300px;
+  margin-top: 1%;
+  margin-bottom: 100px;
+}
+
+div.card{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 250px;
+  background-color: #f6f6f6;
+  margin: 10px;
+}
+
+div.card > figure{
+  
+  width: 300%;
+  height: 400px;
+  margin: 0px;
+  letter-spacing: normal;
+}
+
+
+div.button{
+  width: 100%;
+  font-size: 24px;
+  font-family: sans-serif;
+  background-color: #f6f6f6;
+}
